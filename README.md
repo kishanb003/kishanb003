@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data analysis, Data Visualisation, Machine learning
 - 🌱 I’m currently learning Business Analytics  
 - 💞️ I’m looking to collaborate on begginer data analysis projects
-- 📫 How to reach me: ---
+- 📫 How to reach me: https://www.linkedin.com/in/kishanb003/
 
 <!---
 kishanb003/kishanb003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
